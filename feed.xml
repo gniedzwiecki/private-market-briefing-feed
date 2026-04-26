@@ -8,11 +8,18 @@
         <link>https://gniedzwiecki.github.io/private-market-briefing-feed</link>
         <description>AI-generated audio summaries of FT Unhedged podcast episodes for personal market briefing use.</description>
         <language>en-gb</language>
-        <lastBuildDate>Sun, 26 Apr 2026 14:52:52 +0000</lastBuildDate>
-        <itunes:author>Greg</itunes:author>
+        <lastBuildDate>Sun, 26 Apr 2026 15:07:26 +0000</lastBuildDate>
+
+        <itunes:author>Eric</itunes:author>
         <itunes:summary>AI-generated audio summaries of FT Unhedged podcast episodes for personal market briefing use.</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
         <itunes:category text="Business"/>
+        <itunes:image href="https://gniedzwiecki.github.io/private-market-briefing-feed/artwork.jpg"/>
+
+        <itunes:owner>
+            <itunes:name>Eric</itunes:name>
+            <itunes:email>ericcrook11@gmail.com</itunes:email>
+        </itunes:owner>
 
         
         <item>
