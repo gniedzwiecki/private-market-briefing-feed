@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+    <channel>
+        <title>Unhedged Summary</title>
+        <link>https://gniedzwiecki.github.io/private-market-briefing-feed</link>
+        <description>AI-generated audio summaries of FT Unhedged podcast episodes for personal market briefing use.</description>
+        <language>en-gb</language>
+        <lastBuildDate>Sun, 26 Apr 2026 14:52:52 +0000</lastBuildDate>
+        <itunes:author>Greg</itunes:author>
+        <itunes:summary>AI-generated audio summaries of FT Unhedged podcast episodes for personal market briefing use.</itunes:summary>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:category text="Business"/>
+
+        
+        <item>
+            <title>China Shock 2.0</title>
+            <description>## 1. 5-bullet executive summary
+
+- **“China Shock 2.0” is no longer about low-end manufacturing**: China has moved from widgets/textiles into high-value sectors such as EVs, solar panels, batteries, machine tools, shipbuilding, rail, and supercomputing.
+- **Europe and Southeast Asia are most exposed**: Germany’s auto and capital-goods base, and Southeast Asia’s industrialisation model, are being pressured by Chinese overcapacity and export competitiveness.
+- **China’s industrial model is structurally different**: heavy subsidies, local-government production targets, VAT incentives and state-directed capital create firms that are highly competitive globally, even if not always economically efficient.
+- **Green technology is now a geopolitical lever**: China has solar-panel capacity estimated at roughly double global demand and dominates key parts of the EV/battery/renewables supply chain, raising dependency risks for Europe and emerging markets.
+- **Iran/oil-market disruption could str</description>
+            <pubDate>Thu, 23 Apr 2026 20:00:00 +0000</pubDate>
+            <guid>https://shows.acast.com/unhedged/episodes/china-shock-20</guid>
+            <enclosure url="https://gniedzwiecki.github.io/private-market-briefing-feed/audio/china-shock-20.mp3" length="8326208" type="audio/mpeg"/>
+        </item>
+
+
+    </channel>
+</rss>
